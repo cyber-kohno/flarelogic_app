@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flarelogic_app/static/css/main.64000304.css",
+    "main.js": "/flarelogic_app/static/js/main.98d65b52.js",
+    "static/js/787.28f2414f.chunk.js": "/flarelogic_app/static/js/787.28f2414f.chunk.js",
+    "index.html": "/flarelogic_app/index.html",
+    "main.64000304.css.map": "/flarelogic_app/static/css/main.64000304.css.map",
+    "main.98d65b52.js.map": "/flarelogic_app/static/js/main.98d65b52.js.map",
+    "787.28f2414f.chunk.js.map": "/flarelogic_app/static/js/787.28f2414f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64000304.css",
+    "static/js/main.98d65b52.js"
+  ]
+}
